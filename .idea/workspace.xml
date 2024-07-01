@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf56624b-978f-4838-abd2-352f83089539" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/avarbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/bread.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/head.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/loginbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/imgs/reg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙前端效果图/10轮播图管理页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙前端效果图/11内容管理页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙前端效果图/1注册.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙前端效果图/2登录.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙前端效果图/3首页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙前端效果图/4列表页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙前端效果图/5详情页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙前端效果图/6个人信息页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙前端效果图/7稿件发布页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙前端效果图/8稿件管理页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙前端效果图/9用户管理页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/内容列表测试数据/标题与内容链接.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/头像测试图/head1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/头像测试图/head2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/头像测试图/head3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/头像测试图/head4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/视频/wdsj.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/视频/wzry.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/public/烘焙测试素材/视频/ys.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/AdminView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/admin/BannerView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/admin/ContentView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/admin/UserView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/home/DetailView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/home/IndexView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/home/ListView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/home/LoginView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/home/PersonalView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/home/RegView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/home/personal/InfoView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/home/personal/ManagementView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baking-frontend/src/views/home/personal/PostView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2icidPpkReaLq11taRVTHSSJznu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Konata/IdeaProjects/baking-web/baking-web/baking-frontend/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Konata\IdeaProjects\baking-web\baking-web\baking-frontend\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Konata\IdeaProjects\baking-web\baking-web\baking-frontend\src\views" />
+      <recent name="C:\Users\Konata\IdeaProjects\baking-web\baking-web\baking-frontend\src\views\home" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf56624b-978f-4838-abd2-352f83089539" name="Changes" comment="" />
+      <created>1719796360519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719796360519</updated>
+      <workItem from="1719796361789" duration="4930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
